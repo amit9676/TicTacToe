@@ -1,0 +1,28 @@
+E:\visualstudio\miscellenius\tic tac toe\bin\TypeScriptHTMLApp1.dll.config
+E:\visualstudio\miscellenius\tic tac toe\bin\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe\bin\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+E:\visualstudio\miscellenius\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+E:\visualstudio\miscellenius\tic tac toe\obj\Debug\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe\obj\Debug\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe advanced\bin\TypeScriptHTMLApp1.dll.config
+E:\visualstudio\miscellenius\tic tac toe advanced\bin\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe advanced\bin\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe advanced\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+E:\visualstudio\miscellenius\tic tac toe advanced\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+E:\visualstudio\miscellenius\tic tac toe advanced\obj\Debug\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe advanced\obj\Debug\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe advanced2\bin\TypeScriptHTMLApp1.dll.config
+E:\visualstudio\miscellenius\tic tac toe advanced2\bin\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe advanced2\bin\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe advanced2\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+E:\visualstudio\miscellenius\tic tac toe advanced2\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+E:\visualstudio\miscellenius\tic tac toe advanced2\obj\Debug\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe advanced2\obj\Debug\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe advanced3\bin\TypeScriptHTMLApp1.dll.config
+E:\visualstudio\miscellenius\tic tac toe advanced3\bin\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe advanced3\bin\TypeScriptHTMLApp1.pdb
+E:\visualstudio\miscellenius\tic tac toe advanced3\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+E:\visualstudio\miscellenius\tic tac toe advanced3\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+E:\visualstudio\miscellenius\tic tac toe advanced3\obj\Debug\TypeScriptHTMLApp1.dll
+E:\visualstudio\miscellenius\tic tac toe advanced3\obj\Debug\TypeScriptHTMLApp1.pdb
